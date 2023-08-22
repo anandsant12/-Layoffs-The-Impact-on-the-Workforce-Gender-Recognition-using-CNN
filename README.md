@@ -1,0 +1,2 @@
+# -Layoffs-The-Impact-on-the-Workforce-Gender-Recognition-using-CNN
+Designed data visualization project on layoffs, revealing recurring trends and patterns. Offered valuable insights for informed decision-making on workforce changes.  Developed a gender detection system using CNNs. Achieved an accuracy of 95% on the validation dataset. Applications in security, marketing, and demographics analysis.
